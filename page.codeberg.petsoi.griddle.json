@@ -29,7 +29,7 @@
                     "type": "git",
                     "url": "https://codeberg.org/petsoi/griddle.git",
                     "tag": "v0.3.3",
-                    "commit": "4b55b8a4d8c3696291081ef1d8e7f4e945ffc3fdf"
+                    "commit": "4b55b8a4d8c3696291081ef1d8e7f4e945ffc3fd"
                 },
                 "cargo-sources.json"
             ]
