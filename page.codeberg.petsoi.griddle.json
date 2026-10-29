@@ -28,8 +28,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/petsoi/griddle.git",
-                    "tag": "v0.3.3",
-                    "commit": "4b55b8a4d8c3696291081ef1d8e7f4e945ffc3fd"
+                    "tag": "v0.3.4",
+                    "commit": "1d055be9be99ae3281723477b445148857d04861"
                 },
                 "cargo-sources.json"
             ]
